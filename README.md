@@ -1,13 +1,13 @@
 ## Como Utilizar
 
 **Nome:**
-   search ips - Busca por IPs e nomes de servidores na internet
+    search ips - search ips and server names on the internet
 
 **USO:**
-   main [opções globais] comando [opções do comando] [argumentos...]
+   main [global options] command [command options] [arguments...]
 
 **COMANDOS:**
-   help, h  Mostra uma lista de comandos ou ajuda para um comando
+   help, h  Shows a list of commands or help for one command
 
 **OPÇÕES GLOBAIS:**
-   --help, -h  Mostra ajuda
+   --help, -h  show help
