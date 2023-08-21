@@ -1,11 +1,13 @@
-## How to use
+## Como Utilizar
 
-NAME:
-   search ips - search ips and server names on the internet
-USAGE:
-   main [global options] command [command options] [arguments...]
+**Nome:**
+   search ips - Busca por IPs e nomes de servidores na internet
 
-COMMANDS:
-   help, h  Shows a list of commands or help for one command
-GLOBAL OPTIONS:
-   --help, -h  show help
+**USO:**
+   main [opções globais] comando [opções do comando] [argumentos...]
+
+**COMANDOS:**
+   help, h  Mostra uma lista de comandos ou ajuda para um comando
+
+**OPÇÕES GLOBAIS:**
+   --help, -h  Mostra ajuda
