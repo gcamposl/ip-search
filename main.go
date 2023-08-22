@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("initializing application...")
+	fmt.Println("lookup ips...")
 	application := app.Generate()
 
 	if err := application.Run(os.Args); err != nil {

@@ -1,4 +1,4 @@
-## Como Utilizar
+## How to use
 
 **Nome:**
     search ips - search ips and server names on the internet
